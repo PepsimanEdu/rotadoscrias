@@ -1,0 +1,3 @@
+# 🧭◽[ ROTAS ]  javascript
+
+para fazermos utilização das rotas é primeiramente necessario acessar a rota raíz. Para acessarmos ela iremos ao cmd (ou a qualquer outro terminal de comandos que você utilize) e iremos digitar o comando <i>"node server.js"</i>, comando esse que executa arquivos <i>".js"</i>. Após isso o servidor irá ficar de pé na porta colocada em seu código, e agora será necessario ir até o seu navegador para proseguir. Ao chegar lá vá até a barra de pesquisa e coloque ( <i>"localhost: + a porta que você colocou no seu código"</i> ). Agora que estamos na rota raíz as coisas ficam mais faceis, para mudar a rota basta adiciona uma barra e nome da rota a qual você quer ir, ex: [ <i>"localhost:####" + "/rotaalternativa"</i> ]
